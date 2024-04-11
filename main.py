@@ -65,4 +65,4 @@ def playerMove(event):
 
 
 canvas.bind_all('<Key>', playerMove)
-root.mainloop()
+root.mainloop()#

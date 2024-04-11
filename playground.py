@@ -70,4 +70,4 @@ def create_level(level):
 # Конец программы
 if __name__ == "__main__":
     create_level(levels.level1)
-    root.mainloop()
+    root.mainloop()#
